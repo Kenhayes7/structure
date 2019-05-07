@@ -1,2 +1,2 @@
 # structure
-homework
+homework. this is my homework study guide
